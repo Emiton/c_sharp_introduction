@@ -1,5 +1,5 @@
 // Final Lecture
-// Lecture Topic: Apply the four pillars of OOP (Class and Objects, Inheritance, Polymorphism, and Encapsulation)
+// Lecture Topic: Apply OOP concepts (Class and Objects, Inheritance, Polymorphism, and Encapsulation)
 
 using System;
 
